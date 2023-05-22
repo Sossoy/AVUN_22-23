@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0444209"
-     inkscape:cx="290.27825"
-     inkscape:cy="686.68481"
+     inkscape:cx="254.37319"
+     inkscape:cy="648.38607"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
@@ -55,12 +55,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <ellipse
-       style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.49900001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.56742346;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2964"
-       cx="99.768013"
-       cy="106.76237"
-       rx="90.103142"
-       ry="71.652596" />
+       cx="106.25288"
+       cy="99.289459"
+       rx="105.54962"
+       ry="79.091286" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49900001;stroke-dasharray:none;stroke-opacity:1"
        id="path115-3-2"
@@ -78,7 +78,7 @@
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.49900001;stroke-dasharray:none;stroke-opacity:1"
        id="path115-3"
-       cx="135.89406"
+       cx="172.40607"
        cy="69.317207"
        rx="27.885483"
        ry="19.645433" />
@@ -125,19 +125,19 @@
            height="58.405571"
            x="421.28607"
            y="394.84372" /></flowRegion><flowPara
-         id="flowPara7592"></flowPara></flowRoot>    <text
+         id="flowPara7592" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="113.74525"
+       x="148.14079"
        y="66.216209"
        id="text7596"><tspan
          sodipodi:role="line"
          id="tspan7594"
-         x="113.74525"
+         x="148.14079"
          y="66.216209"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Analyse </tspan><tspan
          sodipodi:role="line"
-         x="113.74525"
+         x="148.14079"
          y="74.153709"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan7598">de données</tspan></text>

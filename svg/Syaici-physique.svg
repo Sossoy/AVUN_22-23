@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="244.48897"
+     inkscape:cx="476.63183"
      inkscape:cy="493.93356"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,33 +53,33 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#99ff55;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.45987821;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="opacity:1;fill:#99ff55;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.79654694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect7540"
-       width="184.12643"
-       height="136.87941"
-       x="14.33708"
-       y="63.006725" />
+       width="208.87013"
+       height="155.95345"
+       x="0.74708647"
+       y="43.764343" />
     <rect
        style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.09486818;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect7542"
        width="73.988464"
        height="40.726559"
-       x="30.663506"
-       y="74.041473" />
+       x="28.01767"
+       y="71.924805" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="36.058926"
-       y="85.333328"
+       x="33.41309"
+       y="83.21666"
        id="text7608"><tspan
          sodipodi:role="line"
          id="tspan7606"
-         x="36.058926"
-         y="85.333328"
+         x="33.41309"
+         y="83.21666"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Espace de stockage</tspan><tspan
          sodipodi:role="line"
-         x="36.058926"
-         y="93.270828"
+         x="33.41309"
+         y="91.15416"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan7610">intélligent </tspan></text>
     <rect
@@ -110,22 +110,22 @@
        id="rect7542-3-8"
        width="73.988464"
        height="40.726559"
-       x="120.62184"
-       y="73.890297" />
+       x="117.97601"
+       y="71.773628" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="125.11026"
-       y="89.113091"
+       x="122.46444"
+       y="86.996422"
        id="text7654"><tspan
          sodipodi:role="line"
          id="tspan7652"
-         x="125.11026"
-         y="89.113091"
+         x="122.46444"
+         y="86.996422"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Smarthphones</tspan><tspan
          sodipodi:role="line"
-         x="125.11026"
-         y="97.050591"
+         x="122.46444"
+         y="94.933922"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan7656"> tablettes, drones</tspan></text>
     <text

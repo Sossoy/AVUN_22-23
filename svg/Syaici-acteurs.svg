@@ -112,8 +112,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="348.80774"
-     inkscape:cy="438.41433"
+     inkscape:cx="-131.01472"
+     inkscape:cy="613.64302"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -130,7 +130,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,15 +154,16 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 55.948412,237.94625 6.4372014,152.87426 55.356107,67.460291 l 98.430113,-0.341968 49.51121,85.071997 -48.9189,85.41396 z"
-       inkscape:transform-center-y="0.00094981897"
-       inkscape:transform-center-x="0.00020904119" />
+       inkscape:transform-center-y="0.0008715467"
+       inkscape:transform-center-x="0.00028904829"
+       transform="matrix(1.068586,0,0,0.92269329,-6.8620543,18.399731)" />
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#00aa88;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.68049139;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="path847-0-4"
        sodipodi:sides="6"
        sodipodi:cx="104.84637"
-       sodipodi:cy="92.108986"
+       sodipodi:cy="96.87149"
        sodipodi:r1="17.892746"
        sodipodi:r2="15.495599"
        sodipodi:arg1="2.0909209"
@@ -170,7 +171,7 @@
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 95.953883,107.63555 -9.000154,-15.464401 8.892484,-15.526561 17.892637,-0.06216 9.00015,15.464398 -8.89248,15.526557 z"
+       d="m 95.953883,112.39805 -9.000154,-15.464397 8.892484,-15.52656 17.892637,-0.06216 9.00015,15.464398 -8.89248,15.526562 z"
        inkscape:transform-center-y="0.00013711775"
        inkscape:transform-center-x="2.6474606e-05" />
     <path
@@ -245,12 +246,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.2018671px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18004668"
        x="88.642334"
-       y="94.01226"
+       y="98.245598"
        id="text2597"><tspan
          sodipodi:role="line"
          id="tspan2595"
          x="88.642334"
-         y="94.01226"
+         y="98.245598"
          style="fill:#ffffff;stroke-width:0.18004668">Manager</tspan></text>
     <text
        xml:space="preserve"
